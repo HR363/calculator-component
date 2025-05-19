@@ -18,7 +18,7 @@ body {
         }
         
         .display {
-            background-color: #eee;
+            background-color: #b8a9a9;
             border-radius: 5px;
             padding: 15px;
             margin-bottom: 15px;
@@ -50,11 +50,11 @@ body {
         }
         
         .operator {
-            background-color: #ff9f0a;
+            background-color: #df1010;
         }
         
         .operator:hover {
-            background-color: #ffb143;
+            background-color: #d40909;
         }
         
         .equal {
@@ -66,7 +66,7 @@ body {
         }
         
         .clear {
-            background-color: #f44336;
+            background-color: #993a32;
         }
         
         .clear:hover {
